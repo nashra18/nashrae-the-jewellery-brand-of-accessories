@@ -6,8 +6,8 @@ const Footer = () => {
       
     </div>
 
-    <div className=' w-full h-[40vh] bg-pink-100 flex items-center flex-col  gap-2 justify-center'>
-      <h1 className="text-xl lg:text-5xl font-serif text-gray-500">Thank you for exploring our collection. </h1>
+    <div className=' w-full h-[40vh] bg-pink-100 flex m-4 items-center flex-col  gap-3 justify-center'>
+      <h1 className="text-xl text-center  lg:text-5xl font-serif text-gray-500">Thank you for exploring our collection. </h1>
       <p className="text-medium lg:text-2xl font-serif  text-center text-gray-400"> This is a demo jewelry website created for portfolio purposes only</p>
        </div>
     </div>
