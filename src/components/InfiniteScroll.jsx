@@ -17,8 +17,7 @@ export default function FeatureScroll() {
   return (
     <div className="relative   overflow-hidden w-full  py-12 ">
       {/* edge fade masks */}
-      <div className="pointer-events-none absolute inset-y-0 left-0 w-20 z-10 bg-linear-to-r from-[#EDEBC9] to-transparent" />
-      <div className="pointer-events-none absolute inset-y-0 right-0 w-20 z-10 bg-linear-to-l from-[#EDEBC9] to-transparent" />
+      
 
       <motion.div
         className="flex gap-6 w-max"
